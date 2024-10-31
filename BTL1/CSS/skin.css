@@ -472,7 +472,7 @@ header {
 .hi1 ul li a {
     text-decoration: none;
     color: black;
-    font-size: 12px;
+    font-size: 14px;
     margin-right: 15px;
 }
 
@@ -491,7 +491,27 @@ header {
     margin: 0px 200px 0px 200px;
     width: 780px;
 }
+.zero{
+    height: 290px;
+    display: flex;
+    margin-bottom:-20px;   
+ }
+ .zero section p a{
+    padding-top: 15px;
 
+ }
+ 
+ .zero aside {
+    padding-left: 30px;
+    font-size: 15px;
+ }
+ 
+ .zero aside a {
+    font-size: 130%;
+    text-decoration: none;
+    color: black;
+ }
+ 
 .one {
     padding-top: 15px;
     display: flex;
@@ -882,8 +902,20 @@ header {
     margin-bottom: 10px; /* Thêm khoảng cách giữa ảnh và văn bản */
     object-fit: cover; /* Đảm bảo ảnh không bị méo */
 }
-
-
+.img-mini{
+    height: 25px;
+    margin-bottom:-5px;
+}
+.img-mini1{
+    height: 25px;
+    margin-bottom:-5px;
+    margin-left:-10px;
+}
+.img-big{
+ 
+    width:100px;
+    height:200px;
+}
 .pre-footer {
     display: flex;
     justify-content: space-between;
