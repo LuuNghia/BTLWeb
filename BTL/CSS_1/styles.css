@@ -558,6 +558,21 @@ header {
     color: black;
     font-size: 14px;
 }
+.one_2{
+    height: 300px;
+    width: 750px;
+    margin-bottom: -170px;
+}
+.one_2 p{
+    color: #766e6e;
+    font-size: 15px;
+}
+.one_2 #box1 {
+    margin-top: 10px;
+    color: #766e6e;
+    font-size: 50px;
+    color: tomato;
+}
 .two {
     height: 220px;
     display: flex;
@@ -573,6 +588,25 @@ header {
 }
 
 .two aside a {
+    font-size: 130%;
+    text-decoration: none;
+    color: black;
+}
+.two_4 {
+    height: 320px;
+    display: flex;
+}
+
+.two_4 section {
+    padding-top: 15px;
+}
+
+.two_4 aside {
+    padding-left: 30px;
+    font-size: 15px;
+}
+
+.two_4 aside a {
     font-size: 130%;
     text-decoration: none;
     color: black;
